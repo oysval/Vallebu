@@ -15,6 +15,6 @@ public class CabinController {
 
     @RequestMapping(method = RequestMethod.GET, produces = {MediaType.APPLICATION_JSON_VALUE})
     public Cabin index() {
-        return new Cabin("Vallebu", "870");
+        return new Cabin("Vallebu", "900");
     }
 }
