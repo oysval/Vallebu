@@ -11,7 +11,7 @@
     </parent>
     
     <groupId>no.vallebu</groupId>
-    <artifactId>vallbu-mvc</artifactId>
+    <artifactId>vallebu-mvc</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
